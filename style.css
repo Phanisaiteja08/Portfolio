@@ -27,7 +27,7 @@ nav {
 
     padding: 0 8%;
 
-    background-color: #4f3108;
+    background-color: #082d4f;
 
     z-index: 1000;
 }
@@ -48,7 +48,7 @@ nav {
 
 .nav-links a {
     background-color: black;
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 
     padding: 10px 15px;
@@ -59,7 +59,7 @@ nav {
 }
 
 .nav-links a:hover {
-    background-color: #2563EB;
+    background-color: #10326e;
 }
 
 section {
@@ -67,7 +67,7 @@ section {
     margin: 40px auto;
     padding: 50px;
 
-    background-color: white;
+    background-color: rgb(91, 49, 13);
 
     border-radius: 10px;
 }
